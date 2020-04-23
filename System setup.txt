@@ -1,0 +1,18 @@
+XAMPP - Web server package with a bunch of tools
+
+Node.js
+
+updating:
+npm cache clean -f
+npm install -g n     (n = node helper)
+n stable (updates the latest LTS)
+
+
+Node Package Manager is included with Nodejs
+npm install packagename
+nmp update packagename
+nmp ls - show what packages are on system
+npm ls installed - whats installed
+npm ls installed someone - whats installed by author
+npm link - Symlink a package folder
+npm search - search for packages
